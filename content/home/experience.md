@@ -46,10 +46,10 @@ date_format = "Jan 2006"
   date_end = "2017-08-31"
   description = """
   __Responsibilities__
-  * Researched and authored, with minimal guidance from the supervisor/colleagues, a report on investment climate and potential investment industries and areas in Vietnam to inform the Board of Investment of Thailand on their investment decisions, as well as significantly contributed in publishing the Philippines’ report.
-  * Authored 2 articles about Thai investors’ opportunities and concerns in 1. Agro-processing industry in the Philippines and 2. Food and Beverage industry in Vietnam on Thailand Oversea Investment Center’s [website](https://toi.boi.go.th) to guide Thai investors who are interested in investing in both countries
+  * Researched and authored, with minimal guidance from the supervisor/colleagues, a [report on investment climate and potential investment industries and areas in Vietnam](https://toi.boi.go.th/information/download/501) to inform the Board of Investment of Thailand on their investment decisions, as well as significantly contributed in publishing [the Philippines’ report](https://toi.boi.go.th/information/download/503).
+  * Authored 2 articles about Thai investors’ opportunities and concerns in 1. [Agro-processing industry in the Philippines](https://toi.boi.go.th/article/2/1847) and 2. [Food and Beverage industry in Vietnam](https://toi.boi.go.th/article/2/1852) on Thailand Oversea Investment Center’s website to guide Thai investors who are interested in investing in both countries
   * Prepared questions for, maintained accurate records of, and summarized interviews of Vietnam’s official investment agencies, Thai businesses investing in Vietnam, and other relevant subjects during one-week research trip in Vietnam
-  * Prepared material for, assisted, and emceed in “Thailand Overseas Investment Forum 2017” by BOI Thailand
+  * Prepared [material](https://toi.boi.go.th/information/download/482) for, assisted, and emceed in “Thailand Overseas Investment Forum 2017” by BOI Thailand
   """
 
 +++
