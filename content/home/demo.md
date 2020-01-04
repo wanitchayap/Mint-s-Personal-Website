@@ -73,3 +73,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
++++
