@@ -48,7 +48,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
+# +++
 
 Welcome to the **Academic Kickstart** template!
 
