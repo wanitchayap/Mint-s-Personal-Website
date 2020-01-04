@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "search"
+  icon_pack = "fas"
+  name = "Research"
+  description = "90%"
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -24,12 +30,25 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "85%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"
+  
+ [[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "far"
+  name = "Teaching"
+  description = "80%"
+ 
+ [[feature]]
+  icon = "shoe-print"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Dance Sport"
+  description = "95%"
+
 
 +++
