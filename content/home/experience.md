@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Researcher"
-  company = "University of Chicago"
+  company = "Behavioral Biology Lab, University of Chicago"
   company_url = ""
   location = "Chicago, IL"
   date_start = "2017-12-01"
@@ -37,12 +37,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Researcher"
+  company = "Thailand Development Research Institute (TDRI)"
+  company_url = "https://tdri.or.th/en/"
+  location = "Bangkok, Thailand"
+  date_start = "2017-06-01"
+  date_end = "2017-08-31"
+  description = """
+  __Responsibilities__
+  * Researched and authored, with minimal guidance from the supervisor/colleagues, a report on investment climate and potential investment industries and areas in Vietnam to inform the Board of Investment of Thailand on their investment decisions, as well as significantly contributed in publishing the Philippines’ report.
+  * Authored 2 articles about Thai investors’ opportunities and concerns in 1. Agro-processing industry in the Philippines and 2. Food and Beverage industry in Vietnam on Thailand Oversea Investment Center’s [website](https://toi.boi.go.th) to guide Thai investors who are interested in investing in both countries
+  * Prepared questions for, maintained accurate records of, and summarized interviews of Vietnam’s official investment agencies, Thai businesses investing in Vietnam, and other relevant subjects during one-week research trip in Vietnam
+  * Prepared material for, assisted, and emceed in “Thailand Overseas Investment Forum 2017” by BOI Thailand
+  """
 
 +++
