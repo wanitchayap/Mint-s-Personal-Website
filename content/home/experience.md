@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Researcher"
   company = "Behavioral Biology Lab, University of Chicago"
-  company_url = ""
+  company_url = "http://primate.uchicago.edu/"
   location = "Chicago, IL"
   date_start = "2017-12-01"
   date_end = "2019-08-01"
