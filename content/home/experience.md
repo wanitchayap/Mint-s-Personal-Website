@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   __Achievements__
   * Conducted and authored Psychology Honors Thesis on psychological and physiological study of stress associated with early relationship formation, with emphasis on individual differences
   * Awarded Earl R. Franklin Research Fellowship and Dean’s Fund for Undergraduate Research 
-  * Won Top Poster in Psychology at the 2019 Chicago Area Undergraduate Research Symposium (CAURS)  
+  * Won Top Poster in Psychology at the [2019 Chicago Area Undergraduate Research Symposium (CAURS)](https://www.caurs.com/caurs2019awardS)  
   
   __Responsibilities__
   * Independently cleaned and analyzed rich datasets including hormonal, cognitive, and behavioral data, using generalized linear model and mixed model to account for individual variances
