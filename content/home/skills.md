@@ -18,31 +18,31 @@ subtitle = ""
   icon = "search"
   icon_pack = "fas"
   name = "Research"
-  description = "90%"
+  description = "95%"
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "95%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "85%"  
+  description = "90%"  
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = "85%"
   
  [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
-  description = "80%"
+  description = "85%"
  
  [[feature]]
   icon = "shoe-print"
