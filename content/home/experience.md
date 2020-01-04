@@ -18,18 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Researcher"
+  company = "University of Chicago"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Chicago, IL"
+  date_start = "2017-12-01"
+  date_end = "2019-08-01"
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Conducted and authored Psychology Honors Thesis on psychological and physiological study of stress associated with early relationship formation, with emphasis on individual differences
+ * Cleaned and analyzed, indipendently, rich datasets including hormonal, cognitive, and behavioral data, using generalized linear model and mixed model to account for individual variances
+ * Received Earl R. Franklin Research Fellowship and Dean’s Fund for Undergraduate Research because of insightful research proposal and design
+ * Won Top Poster in Psychology at the 2019 Chicago Area Undergraduate Research Symposium (CAURS) because of strong abilities in communicating and presenting data analysis and research project to people outside of the field
+ * Led human participants through and served as confederate in biopsychological studies
+ * Conducted Enzyme-linked immunosorbent assay (ELISA) on cortisol and testosterone
+ * Analyzed data for an exploratory study about social interactions using eye tracking software focusing on aggression and violence
   """
 
 [[experience]]
