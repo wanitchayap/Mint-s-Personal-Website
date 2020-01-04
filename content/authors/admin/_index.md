@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in computer mediated communication via ideographs and behavioral sciences in general.
 
 interests:
 - Computational Linguistics
