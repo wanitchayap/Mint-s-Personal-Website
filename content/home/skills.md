@@ -40,12 +40,12 @@ subtitle = ""
   
  [[feature]]
   icon = "chalkboard-teacher"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Teaching"
   description = "85%"
  
  [[feature]]
-  icon = "shoe-print"
+  icon = "shoe-prints"
   icon_pack = "far"
   name = "Dance Sport"
   description = "95%"
