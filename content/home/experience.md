@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   * Conducted and authored Psychology Honors Thesis on psychological and physiological study of stress associated with early relationship formation, with emphasis on individual differences
- * Cleaned and analyzed, indipendently, rich datasets including hormonal, cognitive, and behavioral data, using generalized linear model and mixed model to account for individual variances
- * Received Earl R. Franklin Research Fellowship and Dean’s Fund for Undergraduate Research because of insightful research proposal and design
- * Won Top Poster in Psychology at the 2019 Chicago Area Undergraduate Research Symposium (CAURS) because of strong abilities in communicating and presenting data analysis and research project to people outside of the field
- * Led human participants through and served as confederate in biopsychological studies
- * Conducted Enzyme-linked immunosorbent assay (ELISA) on cortisol and testosterone
- * Analyzed data for an exploratory study about social interactions using eye tracking software focusing on aggression and violence
+  * Independently cleaned and analyzed rich datasets including hormonal, cognitive, and behavioral data, using generalized linear model and mixed model to account for individual variances
+  * Received Earl R. Franklin Research Fellowship and Dean’s Fund for Undergraduate Research 
+  * Won Top Poster in Psychology at the 2019 Chicago Area Undergraduate Research Symposium (CAURS)
+  * Led human participants through and served as confederate in biopsychological studies
+  * Conducted Enzyme-linked immunosorbent assay (ELISA) on cortisol and testosterone
+  * Analyzed data for an exploratory study about social interactions using eye tracking software focusing on aggression and violence
   """
 
 [[experience]]
