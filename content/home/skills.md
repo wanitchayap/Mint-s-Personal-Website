@@ -46,7 +46,7 @@ subtitle = ""
  
  [[feature]]
   icon = "shoe-prints"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Dance Sport"
   description = "95%"
 
