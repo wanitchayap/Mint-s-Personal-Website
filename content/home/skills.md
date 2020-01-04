@@ -40,7 +40,7 @@ subtitle = ""
   
  [[feature]]
   icon = "chalkboard-teacher"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Teaching"
   description = "85%"
  
