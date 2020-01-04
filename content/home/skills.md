@@ -43,6 +43,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Teaching"
   description = "85%"
+  
+ [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "C"
+  description = "60%"
  
  [[feature]]
   icon = "shoe-prints"
