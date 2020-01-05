@@ -22,8 +22,8 @@ date_format = "Jan 2006"
 +++
 
 [[item]]
-title = Odyssey Scholar & University Grant
-organization =  University of Chicago
-date_start = 16-09-01
-date_end = 20-06-30
-description = """Received full tuition and stipend for the whole 4 years in college"""
+  title = Odyssey Scholar & University Grant
+  organization =  University of Chicago
+  date_start = 16-09-01
+  date_end = 20-06-30
+  description = """Received full tuition and stipend for the whole 4 years in college"""
