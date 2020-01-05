@@ -50,11 +50,11 @@ subtitle = ""
   name = "C"
   description = "60%"
  
- [[feature]]
-  icon = "shoe-prints"
-  icon_pack = "fas"
-  name = "Dance Sport"
-  description = "95%"
+ # [[feature]]
+ # icon = "shoe-prints"
+ # icon_pack = "fas"
+ # name = "Dance Sport"
+ # description = "95%"
 
 
 +++
