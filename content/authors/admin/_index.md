@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in computer mediated communication via ideographs and behavioral sciences in general.
+bio: I am interested in computational linguistic and behavioral science.
 
 interests:
 - Computational Linguistics
@@ -62,4 +62,4 @@ email: "wanitchaya@uchicago.edu"
 # - Visitors
 ---
 
-Wanitchaya Poonpatanapricha (or *Mint*) is a BA/MA student in Computational Social Science (MA) and Psychology (BA with Honors) at University of Chicago. She is interested in applying computational methods--such as machine learnings, mass collaborations, large-scaled experiments--in computational linguistics and behavioral sciences. Her MA thesis particularly focuses on computer mediated communication via ideographs.
+Wanitchaya Poonpatanapricha is a BA/MA student in Computational Social Science (MA) and Psychology (BA with Honors) at University of Chicago. She is interested in applying computational methods--such as machine learnings, mass collaborations, large-scaled experiments--in computational linguistics and behavioral sciences. Her MA thesis particularly focuses on computer mediated communication via ideographs.
