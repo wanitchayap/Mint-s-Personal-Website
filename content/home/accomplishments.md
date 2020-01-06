@@ -72,7 +72,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Chicago Area Undergraduate Research Symposium (2019)"
+  organization = "Chicago Area Undergraduate Research Symposium (CAURS)"
   organization_url = "https://www.caurs.com/"
   title = "Top Poster in Psychology"
   url = "https://www.caurs.com/caurs2019awards"
