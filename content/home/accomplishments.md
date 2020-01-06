@@ -41,4 +41,43 @@ date_format = "Jan 2006"
   date_end = "2019-09-30"
   description = ""
   
+[[item]]
+  organization = "University of Chicago"
+  organization_url = ""
+  title = "Earl R. Franklin Research Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-01"
+  date_end = "2019-09-30"
+  description = ""
+  
+[[item]]
+  organization = "University of Chicago"
+  organization_url = ""
+  title = "Dean’s Fund for Undergraduate Research"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = "2019-06-30"
+  description = ""
+
+[[item]]
+  organization = "University of Chicago"
+  organization_url = ""
+  title = "Dean's List"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2020-06-30"
+  description = ""
+
+[[item]]
+  organization = "Chicago Area Undergraduate Research Symposium (2019)"
+  organization_url = "https://www.caurs.com/"
+  title = "Top Poster in Psychology"
+  url = "https://www.caurs.com/caurs2019awards"
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2020-06-30"
+  description = ""
 +++
