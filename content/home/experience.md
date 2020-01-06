@@ -61,13 +61,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  [__Computer Science with Applications 1__](https://classes.cs.uchicago.edu/archive/2019/fall/30121-1/) & [__2__](http://people.cs.uchicago.edu/~lamonts/classes/2019_2020/winter/capp30122/index.html) - Autumn 2019, Winter 2020
+  [__Computer Science with Applications 1__](https://classes.cs.uchicago.edu/archive/2019/fall/30121-1/) & [__2__](http://people.cs.uchicago.edu/~lamonts/classes/2019_2020/winter/capp30122/index.html) _- Autumn 2019, Winter 2020_
   * Selected as a TA for the Computer Science with Applications sequence in the graduate section
   * Assist in teaching computational thinking and programming in `Python` to ~90 master's students
   * Lead weekly lab/discussion session of ~15 students
   * Coordinate and supervise graders on weekly programming assignments
   
-  [__Computing for The Social Science__](https://cfss.uchicago.edu/) - Autumn 2019
+  [__Computing for The Social Science__](https://cfss.uchicago.edu/) _- Autumn 2019_
   * Selected as a TA for an applied programming and data science course for social scientists in the Division of the Social Sciences
   * Assisted in teaching data cleaning, analysis, and visualization in `R` to a class of ~60 PhD, master's, and undergraduate students
   * Graded and provided constructive feedbacks on weekly independent projects
