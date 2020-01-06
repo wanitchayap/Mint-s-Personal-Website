@@ -1,6 +1,6 @@
 ---
 title: "A psychological and physiological study of stress associated with early relationship formation, with emphasis on gender and personality traits"
-date: 2019-01-06
+date: 2019-05-01
 tags: ['Stress', 'Psychology', 'Hormone', 'TSST', 'Relationship Formation', 'Gender', 'Personality Traits']
 draft: false
 ---
