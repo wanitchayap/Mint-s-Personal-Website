@@ -15,7 +15,7 @@ role: BA/MA student in Computational Social Science (MA) and Psychology (BA)
 # Organizations/Affiliations
 organizations:
 - name: University of Chicago
-  url: ""
+  url: "https://macss.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in computational linguistic and behavioral science.
