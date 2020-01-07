@@ -1,15 +1,14 @@
 ---
 title: "A Psychological and Physiological Study of Stress Associated with Early Relationship Formation, with Emphasis on Gender and Personality Traits"
 date: 2019-05-01
-summary: " "
-tags: ['Stress', 'Psychology', 'Hormone', 'TSST', 'Relationship Formation', 'Gender', 'Personality Traits']
+summary: "Does stress affect how we interact with strangers differently depending on our individual differences? If so, how?"
 draft: false
 categories:
-  - Honors Thesis
+  - Thesis
 featured: no
 ---
 
-[_PDF_]()
+[_PDF_](TSST_pdf.pdf)
 
 ## Abstract
 
