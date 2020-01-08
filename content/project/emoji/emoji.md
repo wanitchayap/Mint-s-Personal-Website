@@ -1,3 +1,23 @@
+---
+title: "Contextual vs Universal Meanings of Emoji: A Case Study on #MeToo vs 2016 US Election Tweets"
+author: ''
+date: '2019-05-01'
+slug:
+aliases:
+categories:
+  - Paper
+tags:
+subtitle: ""
+summary: "Do emoji mean the same things across contexts? Are there universal meanings of emoji?"
+authors:
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
 ## Abstract
 This paper, using emoji in tweets about the Me Too movement and the 2016 United States elections as a case study, focused on how contexts affect the meanings of emoji by examining to what extent the meanings of emoji are composed of their universal meanings versus their contextual meanings. I found that there was not enough evidence to conclude that contexts affect the meanings of emoji on average. However, at the level of individual emoji, I found varying degrees in how much each emoji’s meaning was composed of its universal meaning versus its contextual meaning.
 
