@@ -2,6 +2,7 @@
 title: "Contextual vs Universal Meanings of Emoji: A Case Study on #MeToo vs 2016 US Election Tweets"
 author: ''
 date: '2019-11-01'
+type: docs
 slug:
 aliases:
 toc: true
