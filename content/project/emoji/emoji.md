@@ -4,6 +4,7 @@ author: ''
 date: '2019-11-01'
 slug:
 aliases:
+toc: true
 categories:
   - Paper
 tags:
@@ -49,7 +50,7 @@ word2vec has an expectation that not only similar words will be close to each ot
 
 ### 3. Method
 #### 3.1 Data
-To answer the research questions, I combined two datasets of tweets in distinct contexts: 28,629 English tweets about the Me Too movement with the hashtag #MeToo (dat, 2019), and 393,764 tweets about the 2016 United States elections on the election day(King, 2019). Only tweets in English language with at least one emoji were kept for simplification. Hence, there were 1,479 eligible #MeToo tweets and 20,959 eligible election tweets. To match the number of eligible #MeToo tweets, 1,479 election tweets were randomly sampled from 20,959 eligible election tweets and used in subsequent analyses.
+To answer the research questions, I combined two datasets of tweets in distinct contexts: 28,629 English tweets about the Me Too movement with the hashtag #MeToo (Hamdan, 2019), and 393,764 tweets about the 2016 United States elections on the election day(King, 2019). Only tweets in English language with at least one emoji were kept for simplification. Hence, there were 1,479 eligible #MeToo tweets and 20,959 eligible election tweets. To match the number of eligible #MeToo tweets, 1,479 election tweets were randomly sampled from 20,959 eligible election tweets and used in subsequent analyses.
 
 \#MeToo tweets: 75.12% of #MeToo tweets in the sample contained only one emoji, 15.75% contained two emoji, 5.47% contained three emoji, and 3.65% contained 4 or more emoji. The average number of emoji per tweet was 1.41. The most frequent emoji used in #MeToo tweets in the sample were red heart (n = 259), broken heart (n = 117), and pensive face (n = 72).
 
@@ -68,7 +69,7 @@ To examine how emoji were affected by contexts on average, I performed a hypothe
 After constructing both the original cVSM and the null cVSM, for each cVSM, I calculated the similarity scores of the pairs of same emoji with one emoji tagged as one context and the other tagged as another context (hereafter, ’emoji pair’; Figure 1). Then, I performed a one-sided pairwise t-test where I reject the null hypothesis if the similarity score of the emoji pair in the original cVSM is lower than the similarity score of the same emoji pair of the null cVSM.
 
 ![](/img/diagram.png)
-Figure 1: Diagram of how hypothesis test was conducted.
+*Figure 1: Diagram of how hypothesis test was conducted.*
 
 ##### 3.2.2 How emoji were affected by contexts individually
 To examine how emoji were affected by contexts individually, I used two approaches. In the first approach, I examined the distribution of similarity scores of emoji pairs to similarity scores of all possible pairs of tokens in the original cVSM. In the second approach, I qualitatively examined the nearest neighbors of selected emoji pairs in three different VSMs: original cVSM, VSM trained on #MeToo tweets only, and VSM trained on election tweets only.
@@ -78,18 +79,18 @@ To examine how emoji were affected by contexts individually, I used two approach
 I could not reject the null that emoji were affected by contexts on average; from the sample, the mean of the difference distribution was 0.0003 with 95% confidence interval of -0.0001 to 0.0007 (Figure 2). This suggested there was not enough evidence to conclude that contexts affect the meanings of emoji on average.
 
 ![](/img/null_diff.png)
-Figure 2: Distribution of each emoji pair’s difference between the similarity score calculated from the original cVSM and the one calculated from the null cVSM with the outlier labeled.
+*Figure 2: Distribution of each emoji pair’s difference between the similarity score calculated from the original cVSM and the one calculated from the null cVSM with the outlier labeled.*
 
 #### 4.2 How emoji were affected by contexts individually
 Figure 3 examined the distribution of similarity scores of emoji pairs to similarity scores of all possible pairs of tokens in the original cVSM. On average, a pair of tokens in the original cVSM had a very high similarity score (mean = 0.9965). Hence, it is not surprising that all emoji pairs had the similarity scores higher than 0.99. Around half of the emoji pairs had lower similarity scores than the mean. Specifically, rose, persevering, and hugging face pairs had similarity scores one standard deviation below the mean. The other half of the emoji pairs had higher similarity scores than the mean. In fact, around a quarter of the emoji pairs had higher similarity scores than the mode. From the huge spread of the emoji pairs’ similarity scores, even though on average we could not reject the null in 4.1, there were some emoji that were affected by the contexts more while some were affected less than the others.
 
 ![](/img/actual_dist.png)
-Figure 3: Distribution, with mean and standard deviation labeled, of the similarity scores of all possible pairs of tokens overlapped with the similarity scores of emoji pairs in the original cVSM.
+*Figure 3: Distribution, with mean and standard deviation labeled, of the similarity scores of all possible pairs of tokens overlapped with the similarity scores of emoji pairs in the original cVSM.*
 
 To understand the variations of contextual effects on emoji meanings in different emoji better, I examined the nearest neighbors of blue heart, eyes, and persevering face which respectively had high, moderate, and low similarity scores in 3. Figure 4 showed the nearest neighbors of each emoji from three different VSMs: original cVSM, separated VSM trained on #MeToo tweets only, and separated VSM trained on election tweets only. The nearest neighbors from cVSM were drawn in two sets: one as the neighbors of #MeToo-tagged emoji and another as the neighbors of election-tagged emoji. The top 20 nearest neighbors were drawn from each separated VSM and from each tagged emoji in cVSM. In total, there were 4 sets of 20 nearest neighbors for each emoji.
 
 ![](/img/venn.png)
-Figure 4: The top 20 nearest neighbors for 1) #MeToo-tagged emoji in cVSM, 2) election-tagged emoji in cVSM, 3) emoji in VSM trained on #MeToo tweets only, and 4) emoji in VSM trained on election tweets only. The three emoji were blue heart (top), eyes (middle), and persevering face (bottom) sorted by emoji pairs’ similarity scores from high to low.
+*Figure 4: The top 20 nearest neighbors for 1) #MeToo-tagged emoji in cVSM, 2) election-tagged emoji in cVSM, 3) emoji in VSM trained on #MeToo tweets only, and 4) emoji in VSM trained on election tweets only. The three emoji were blue heart (top), eyes (middle), and persevering face (bottom) sorted by emoji pairs’ similarity scores from high to low.*
 
 For blue heart, there were several nearest neighbors shared among the sets. Specifically, the term “I’m” was in all 4 sets. As expected, #MeToo (combined) set shared many nearest neighbors with #MeToo (separated) set, and the same went with the election (combined) and the election (separated) sets. Nearest neighbors that cVSM did not capture but the separated ones did were semantically specific such as “assault” and “sexual” in #MeToo, and “trump” in election. Most of the shared nearest neighbors between the tagged blue hearts in cVSM themselves seemed to be more semantically general. Interestingly, there were some nearest neighbors shared between #MeToo (separated) and election (combined) sets and between #MeToo (combined) and election (separated) sets: “want” and “world” respectively. These overlaps between unexpected pairs of sets further supported that blue heart was less affected by the contexts.
 
@@ -123,15 +124,13 @@ For future works, below are some possible ideas to extend this study:
 * further investigate what types of emoji meanings are more likely to be contextual versus universal
 
 ### References
-\2019. Tweets with emojis - #metoo (2017-10-16) - dataset by hamdan.
-
 Francesco Barbieri, Luis Espinosa-Anke, and Horacio Saggion. 2016a. Revealing patterns of twitter emoji usage in barcelona and madrid. Frontiers in Artificial Intelligence and Applications. 2016;(Artificial Intelligence Research and Development) 288: 239-44.
 
 Francesco Barbieri, German Kruszewski, Francesco Ronzano, and Horacio Saggion. 2016b. How cosmopolitan are emojis?: Exploring emojis usage and meaning over different languages with distributional semantics. In Proceedings of the 24th ACM international conference on Multimedia, pages 531–535. ACM.
 
-Francesco Barbieri, Francesco Ronzano, and Horacio Saggion. 2016c. What does this emoji mean? a vector space skip-gram model for twitter emojis. In Calzolari N, Choukri K, Declerck T, et al, editors. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC
+Francesco Barbieri, Francesco Ronzano, and Horacio Saggion. 2016c. What does this emoji mean? a vector space skip-gram model for twitter emojis. In Calzolari N, Choukri K, Declerck T, et al, editors. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016); 2016 May 23-28; Portoroz,ˇ Slovenia. Paris: European Language Resources Association (ELRA); 2016. p. 3967-72. ELRA (European Language Resources Association).
 
-2016); 2016 May 23-28; Portoroz,ˇ Slovenia. Paris: European Language Resources Association (ELRA); 2016. p. 3967-72. ELRA (European Language Resources Association).
+Hamdan. 2019. Tweets with emojis - #metoo (2017-10-16) - dataset by hamdan.
 
 Jing Chen, Dechuan Yang, Xilian Li, Wei Chen, and Tengjiao Wang. 2018. Peperomia at semeval-2018 task 2: vector similarity based approach for emoji prediction. In Proceedings of The 12th International Workshop on Semantic Evaluation, pages 428–432.
 
