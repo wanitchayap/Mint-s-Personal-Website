@@ -24,6 +24,7 @@ This paper investigates whether a speaker whose primary language has higher degr
 
 ### 1. Introduction
 Emoji, a form of ideograms, support computer-mediated communications (CMCs) in the same way nonverbal cues--such as facial expression, gesture, and tone of voice (Tang and Hew, 2019)--support face-to-face (FTF) communications. One way that emoji can support CMCs is to convey politeness. Some languages have more linguistic elements for politeness (e.g., honorifics in Japanese, sentence-final particles in Thai) than the others (e.g., English). It is therefore possible that when a speaker whose primary language has a higher degree of politeness has to communicate politely through texts in a less polite foreign language, that speaker might resort to emoji due to the lack of linguistic elements for politeness and nonverbal cues to convey politeness as in FTF. This paper investigates the possibility of emoji as an element of politeness in ESL[^1] CMCs.
+
 [^1]: English as a secondary language
 
 ### 2. Related Works
@@ -32,11 +33,14 @@ A number of research has linked the use of emoticons—the predecessor of emoji�
 Sampietro (2016) proposed that one of the pragmatic function of emoticons was to mitigate possible face-threats. For example, emoticons were used with requests and orders to soften these speech acts (Dresner and Herring, 2010; Darics, 2012; Skovholt et al., 2014). Specifically, Darics (2012) found that emoticons were mainly used to mitigate or to clarify the message, usually to reach a successful cooperation. Here are two example sentences mitigated by emoticons from Dresner and Herring (2010):
 
 > I would like a noncircumventing solution ;->
+
+\ 
+
 > I wonder if you could recommend me some good readings related to conversational data. We just collected some IM data and are about to conduct some analysis on it. Since I’ve never worked on this kind of data before, I am writing for some suggestions.:)
 
 Furthermore, Sampietro (2019) proposed that emoticons may contribute to politeness in CMCs. Specifically, Skovholt et al. (2014) found emoticons to be positive politeness markers and rapport building devices, and Vandergriff (2013) found emoticons to be mostly used in the service of politeness and to mitigate disagreement.
 
-In terms of cross-language analysis, prior works have studied emoticon usages for politeness across differentlanguages.Komrskova ́(2015)studied emoticons in Czech and English, and found that phrases of greeting and thanks were very often accompanied vy emoticons in both languages. Kavanagh (2016) studied emoticon as a medium for channeling politeness within American and Japanese online blogging communities and found that Japanese used emoticons significantly more than Americans. In contrast to these works which investigated usage of emoticons for politeness in each speaker’s primary language, this paper investigates the usage of emoji for politeness in ESL CMCs.
+In terms of cross-language analysis, prior works have studied emoticon usages for politeness across different languages. Komrskova (2015)studied emoticons in Czech and English, and found that phrases of greeting and thanks were very often accompanied vy emoticons in both languages. Kavanagh (2016) studied emoticon as a medium for channeling politeness within American and Japanese online blogging communities and found that Japanese used emoticons significantly more than Americans. In contrast to these works which investigated usage of emoticons for politeness in each speaker’s primary language, this paper investigates the usage of emoji for politeness in ESL CMCs.
 
 ### 3. Method
 The goal of this paper is to investigate whether a speaker whose primary language has higher degree of politeness (than English) is more likely to use emoji as elements of politeness when the speaker has to communicate politely in English.
