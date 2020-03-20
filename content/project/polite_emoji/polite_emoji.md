@@ -2,7 +2,6 @@
 title: "Emoji as an Elements of Politeness in ESL CMCs"
 author: ''
 date: '2020-03-20'
-type: docs
 slug:
 aliases:
 toc:
