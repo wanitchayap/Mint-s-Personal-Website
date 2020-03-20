@@ -34,7 +34,6 @@ Sampietro (2016) proposed that one of the pragmatic function of emoticons was to
 
 > I would like a noncircumventing solution ;->
 
-\ 
 
 > I wonder if you could recommend me some good readings related to conversational data. We just collected some IM data and are about to conduct some analysis on it. Since I’ve never worked on this kind of data before, I am writing for some suggestions.:)
 
